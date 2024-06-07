@@ -27,5 +27,9 @@ export function login(user) {
 export function deleteUser(user) {
   console.log(`${user} deleted.`);
 }
+
+export function deleteUserss(user) {
+  console.log(`${user} deleted.`);
+}
 // No use strict: Code smell for potentially problematic constructs
 x = 017; // Octal numbers can be confusing: Code smell
